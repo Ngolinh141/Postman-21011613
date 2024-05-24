@@ -15,7 +15,9 @@
 # Báo cáo kiểm thử API
 **1. Mục tiêu kiểm thử**
 - Mục tiêu của kiểm thử là đảm bảo rằng các chức năng chính của Random Data API hoạt động chính xác và hiệu quả. Phạm vi kiểm thử bao gồm các endpoint chính như /people, /people/{id}, /random, và /search.
+
 **2. Kết quả kiểm thử**
+
 ***2.1. GET /people***
 - Mã trạng thái: 200 OK
 - Nội dung phản hồi: Danh sách các thông tin về người.
