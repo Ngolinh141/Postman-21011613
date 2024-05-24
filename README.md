@@ -3,6 +3,7 @@
 **Postman là gì?**
 - Postman là một công cụ mạnh mẽ và phổ biến dành cho việc phát triển, kiểm thử, và quản lý các API. Với Postman, người dùng có thể gửi các yêu cầu HTTP, xem và kiểm tra các phản hồi, tự động hóa các kịch bản kiểm thử và hợp tác trong phát triển API.
 - Kiểm tra API: https://openweathermap.org/api
+
 **Các tính năng chính của Postman**
 - Gửi yêu cầu HTTP: Hỗ trợ đầy đủ các loại yêu cầu HTTP như GET, POST, PUT, DELETE, PATCH, OPTIONS.
 - Quản lý yêu cầu và bộ sưu tập: Người dùng có thể tạo và quản lý các yêu cầu, tổ chức chúng thành các bộ sưu tập để dễ dàng kiểm thử.
